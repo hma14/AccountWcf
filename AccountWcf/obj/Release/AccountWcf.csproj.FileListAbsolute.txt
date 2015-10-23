@@ -1,0 +1,5 @@
+F:\Visual_Studio_2015_Apps\AccountWcf\AccountWcf\bin\AccountWcf.dll.config
+F:\Visual_Studio_2015_Apps\AccountWcf\AccountWcf\bin\AccountWcf.dll
+F:\Visual_Studio_2015_Apps\AccountWcf\AccountWcf\bin\AccountWcf.pdb
+F:\Visual_Studio_2015_Apps\AccountWcf\AccountWcf\obj\Release\AccountWcf.dll
+F:\Visual_Studio_2015_Apps\AccountWcf\AccountWcf\obj\Release\AccountWcf.pdb
